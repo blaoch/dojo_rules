@@ -5,3 +5,4 @@ Co founder of TopBargains - https://www.topbargains.com.au
 *Git
 *JavaScript
 *Rub
+*Killing history using git rebase
